@@ -1,0 +1,32 @@
+Joy Stick
+	PA3 -> X
+	PA5 -> Y
+	PD11 -> K
+
+RTC
+	SDA -> PB7
+	SCL -> PB6
+
+USART6
+	tx -> PC6
+	rx -> PC7
+
+LDR
+	pc3
+
+RELAY
+	PB10
+	PB14
+
+TEMP
+	PC2
+
+Buzzer
+	PA10
+
+Interrupt
+	PA15
+
+FAN
+	PA8
+
